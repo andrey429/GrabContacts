@@ -97,7 +97,7 @@ public class GrabContacts {
             e.printStackTrace();
         }
 
-
+                        /**/
 
         try {
             BufferedWriter wrt = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(outputFile)));
